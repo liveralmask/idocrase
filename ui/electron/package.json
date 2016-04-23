@@ -1,0 +1,19 @@
+{
+  "name": "idocrase-ui",
+  "version": "0.0.1",
+  "description": "Dynamic generation of UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liveralmask/idocrase.git"
+  },
+  "author": "liveralmask",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liveralmask/idocrase/issues"
+  },
+  "homepage": "https://github.com/liveralmask/idocrase"
+}

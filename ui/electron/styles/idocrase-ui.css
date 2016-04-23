@@ -1,0 +1,40 @@
+html {
+  width:  100%;
+  height: 100%;
+}
+
+body {
+  width:  100%;
+  height: 90%;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.head {
+  width:  100%;
+  top:    0px;
+  left:   0px;
+}
+
+div.main {
+  width:  100%;
+  height: 100%;
+  left:   0px;
+}
+
+div.foot {
+  width:  100%;
+  left:   0px;
+}
+
+div#editor {
+  float:  left;
+  width:  50%;
+  height: 100%;
+}
+
+div#viewer {
+  float:  left;
+  width:  50%;
+  height: 100%;
+}
